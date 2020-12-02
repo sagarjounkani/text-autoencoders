@@ -1,0 +1,22 @@
+Namespace(batch_size=256, dim_d=512, dim_emb=512, dim_h=1024, dim_z=128, dropout=0.5, epochs=50, lambda_adv=10.0, lambda_kl=0, lambda_p=0, load_model='', log_interval=100, lr=0.0005, model_type='aae', nlayers=1, no_cuda=False, noise=[0.3, 0.0, 0.0, 0.0], save_dir='checkpoints/', seed=1111, train='data/address_train.csv', valid='data/address_valid.csv', vocab_size=10000)
+Namespace(batch_size=256, dim_d=512, dim_emb=512, dim_h=1024, dim_z=128, dropout=0.5, epochs=50, lambda_adv=10.0, lambda_kl=0, lambda_p=0, load_model='', log_interval=100, lr=0.0005, model_type='aae', nlayers=1, no_cuda=False, noise=[0.3, 0.0, 0.0, 0.0], save_dir='checkpoints/', seed=1111, train='data/address_train.csv', valid='data/address_valid.csv', vocab_size=10000)
+# train sents 25008, tokens 347852
+# valid sents 5009, tokens 70199
+Namespace(batch_size=256, dim_d=512, dim_emb=512, dim_h=1024, dim_z=128, dropout=0.5, epochs=50, lambda_adv=10.0, lambda_kl=0, lambda_p=0, load_model='', log_interval=100, lr=0.0005, model_type='aae', nlayers=1, no_cuda=False, noise=[0.3, 0.0, 0.0, 0.0], save_dir='checkpoints/', seed=1111, train='data/address_train.csv', valid='data/address_valid.csv', vocab_size=10000)
+# train sents 25008, tokens 347852
+# valid sents 5009, tokens 70199
+Namespace(batch_size=256, dim_d=512, dim_emb=512, dim_h=1024, dim_z=128, dropout=0.5, epochs=50, lambda_adv=10.0, lambda_kl=0, lambda_p=0, load_model='', log_interval=100, lr=0.0005, model_type='aae', nlayers=1, no_cuda=False, noise=[0.3, 0.0, 0.0, 0.0], save_dir='checkpoints/', seed=1111, train='data/address_train.csv', valid='data/address_valid.csv', vocab_size=10000)
+# train sents 25008, tokens 347852
+# valid sents 5009, tokens 70199
+Namespace(batch_size=256, dim_d=512, dim_emb=512, dim_h=1024, dim_z=128, dropout=0.5, epochs=50, lambda_adv=10.0, lambda_kl=0, lambda_p=0, load_model='', log_interval=100, lr=0.0005, model_type='aae', nlayers=1, no_cuda=False, noise=[0.3, 0.0, 0.0, 0.0], save_dir='checkpoints/', seed=1111, train='data/address_train.csv', valid='data/address_valid.csv', vocab_size=10000)
+# train sents 25008, tokens 347852
+# valid sents 5009, tokens 70199
+# vocab size 10005
+# model parameters: 34933782
+--------------------------------------------------------------------------------
+Namespace(batch_size=256, dim_d=512, dim_emb=512, dim_h=1024, dim_z=128, dropout=0.5, epochs=50, lambda_adv=10.0, lambda_kl=0, lambda_p=0, load_model='', log_interval=100, lr=0.0005, model_type='aae', nlayers=1, no_cuda=False, noise=[0.3, 0.0, 0.0, 0.0], save_dir='checkpoints/', seed=1111, train='data/address_train.csv', valid='data/address_valid.csv', vocab_size=10000)
+# train sents 25008, tokens 347852
+# valid sents 5009, tokens 70199
+# vocab size 10005
+# model parameters: 34933782
+--------------------------------------------------------------------------------
